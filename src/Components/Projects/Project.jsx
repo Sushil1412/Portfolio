@@ -48,8 +48,8 @@ const Project = () => {
             </div>
             <h3>Portfolio</h3>
             <div className='project_item-cta'>
-              <a href='http://github.com' className='btn'>Github</a>
-              <a href='http://google.com' className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href='https://github.com/Sushil1412/Portfolio' className='btn'>Github</a>
+              <a href='https://myportfolio1412.netlify.app' className='btn btn-primary' target='_blank'>Live Demo</a>
             </div>
 
           </article>
